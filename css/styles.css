@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #9400D3;
+  background-color: #d3008d;
   border-radius: 0;
   border: 0;
 }
@@ -53,7 +53,7 @@ body {
   text-align: center;
 }
 #nav-list a:hover {
-  background: #8293ee;
+  background: #82eebc;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -68,7 +68,8 @@ body {
   height: 60%;
   align-items: center;
   margin: 0 auto 15px;
-  background-color: #a1d7c9;
+  background-color: rgb(255, 210, 217);
+
 }
 .category-tile span {
   position: relative;
