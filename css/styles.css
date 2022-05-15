@@ -53,7 +53,8 @@ body {
   text-align: center;
 }
 #nav-list a:hover {
-  background: #82eebc;
+    background: #f7bde4;
+
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -68,7 +69,7 @@ body {
   height: 60%;
   align-items: center;
   margin: 0 auto 15px;
-  background-color: rgb(255, 210, 217);
+    background-color:#f5e1ec ;
 
 }
 .category-tile span {
